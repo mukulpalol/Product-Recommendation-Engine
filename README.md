@@ -24,7 +24,7 @@ Here communities will be formed on the basis of the information obtained from us
 - Python3
 - Flask
 
-## Frontend
+## Demo
 ### Home Page
 ![index.html](https://github.com/mukulpalol/Product-Recommendation-Engine/blob/main/Project%20Images/index.gif)
 ### About Page
