@@ -19,5 +19,23 @@ Here communities will be formed on the basis of the information obtained from us
 ### About Page
 ![about.html](https://github.com/mukulpalol/Product-Recommendation-Engine/blob/main/static/img/about.png)
 
+## Team Details
+### Member 1
+- Name: Mohammed Arshad
+- Roll Number: 19ESKIT056
+- Branch: IT-B(G1)
+
+
+### Member 2
+- Name: Mohit Singhal
+- Roll Number: 19ESKIT057
+- Branch: IT-B(G1)
+
+
+### Member 3
+- Name: Mukul Palol
+- Roll Number: 19ESKIT059
+- Branch: IT-B(G1)
+
 ## Important links
 - Dataset: https://archive.ics.uci.edu/ml/datasets/Online+Retail#
