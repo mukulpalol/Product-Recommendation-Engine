@@ -1,5 +1,6 @@
 # AI Based Personalised Product Recommendation System
 ![HomePage.jpeg](https://github.com/mukulpalol/Product-Recommendation-Engine/blob/main/Project%20Images/HomePage.jpeg)
+<br><br>
 This project is in partial fulfillment for the award of the ***Degree of Bachelor of Technology in Department of Information Technology*** by **Mohammed Arshad (19ESKIT056)**, **Mohit Singhal (19ESKIT057)** and **Mukul Palol (19ESKIT059)**
 ## About the project
 A collaborative product recommendation engine that uses data from an e-commerce store to make similar product suggestions based on the selected item. This is performed through community detection using Louvain clustering. A Flask API has been used to create the user interface and Gephi visualisations have been included to analyse the detected communities.
