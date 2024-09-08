@@ -15,8 +15,8 @@ Here communities will be formed on the basis of the information obtained from us
 ## Documentation
 - [Abstract](https://github.com/mukulpalol/Product-Recommendation-Engine/blob/main/Documentation/Abstract%20-%20Recommendation%20System.pdf)
 - [SRS](https://github.com/mukulpalol/Product-Recommendation-Engine/blob/main/Documentation/SRS%20-%20Recommendation%20System.pdf)
-- [Pproject Report PDF](https://github.com/mukulpalol/Product-Recommendation-Engine/blob/main/Documentation/Project%20Report%20-%20Recommendation%20System.pdf)
-- [Pproject Report Latex](https://github.com/mukulpalol/Product-Recommendation-Engine/blob/main/Documentation/Project%20Report%20Recommendation%20System.zip)
+- [Project Report PDF](https://github.com/mukulpalol/Product-Recommendation-Engine/blob/main/Documentation/Project%20Report%20-%20Recommendation%20System.pdf)
+- [Project Report Latex](https://github.com/mukulpalol/Product-Recommendation-Engine/blob/main/Documentation/Project%20Report%20Recommendation%20System.zip)
 - [Form1](https://github.com/mukulpalol/Product-Recommendation-Engine/blob/main/Documentation/Form%201.pdf)
 - [Form2](https://github.com/mukulpalol/Product-Recommendation-Engine/blob/main/Documentation/Form%202.pdf)
 - [Form3](https://github.com/mukulpalol/Product-Recommendation-Engine/blob/main/Documentation/Form%203.pdf)
